@@ -1,0 +1,14 @@
+{
+  "name": "smikes-mocha-watch-example",
+  "version": "1.0.0",
+  "description": "example working mocha watch via npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sam Mikes <smikes@cubane.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
